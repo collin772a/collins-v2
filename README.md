@@ -113,6 +113,6 @@
 
 ## Community and Support
 
-FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L))
+FOLLOW 𝐂𝐎𝐋𝐋𝐈𝐍𝐒 𝐒𝐌𝐈𝐓𝐇 WHAtSAPP CHANNEL FOR MORE UPDATES
+[![JOIN WHATSAPP GROUP](https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d)](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q))
 
