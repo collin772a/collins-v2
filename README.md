@@ -2,7 +2,7 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ANITA-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+collins+smith;RELEASED+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-𝐌𝐃•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+collins+smith;RELEASED+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/a859713071d35ccfa1503.jpg"/> 
