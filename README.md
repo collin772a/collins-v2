@@ -1,4 +1,4 @@
- # collins-V2
+ # 𝑪𝑶𝑳𝑳𝑰𝑵𝑺-𝑽2
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## collins-V2 Deployment Methods
+ ## 𝑪𝑶𝑳𝑳𝑰𝑵𝑺-𝑽2 Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -77,13 +77,13 @@
     <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## collins-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## 𝑪𝑶𝑳𝑳𝑰𝑵𝑺-𝑽2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254752588323"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https:https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
@@ -106,13 +106,13 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
-  #### ```collins smith PROFILE VIEWS 🧚```
+  #### ```𝑪𝑶𝑳𝑳𝑰𝑵𝑺 𝑺𝑴𝑰𝑻𝑯 PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Community and Support
 
-FOLLOW 𝐂𝐎𝐋𝐋𝐈𝐍𝐒 𝐒𝐌𝐈𝐓𝐇 WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d)](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q))
+FOLLOW 𝑪𝑶𝑳𝑳𝑰𝑵𝑺 𝑺𝑴𝑰𝑻𝑯 WHAtSAPP CHANNEL FOR MORE UPDATES
+[![JOIN WHATSAPP GROUP](https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d)]((https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q))
 
