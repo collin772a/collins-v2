@@ -70,7 +70,7 @@
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/collin772a/collins-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ### DEPLOY ON RAILWAY
 1. Deploy.
     <br>
