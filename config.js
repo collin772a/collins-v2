@@ -2,24 +2,24 @@
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
-global.audio = "";
-global.video = "";
+global.audio = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4";
+global.video = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "couma772@gmail.com";
-global.location = "Nairobi, kenya";
+global.email = "denniskipkoe393@gmail.com";
+global.location = "Bomet, Kenya";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
 global.github = process.env.GITHUB || "https://github.com/collin772a/collins-v2";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/8b3583efb4327bde4595f.jpg";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/06b2add033260da0ce79f.jpg";
 global.devs = "https://t.me/deecee_x";
 global.sudo = process.env.SUDO || "";
-global.owner = process.env.OWNER_NUMBER || "";
+global.owner = process.env.OWNER_NUMBER || "254752588323";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -27,8 +27,8 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/a859713071d35ccfa1503.jpg,https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg";
-global.waPresence = process.env.WAPRESENCE || "available";
+global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/117760f2601f9b558e4a0.jpg";
+global.waPresence = process.env.WAPRESENCE || "recording";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
@@ -44,15 +44,15 @@ global.SESSION_ID =
   process.env.SESSION_ID ||
   ""
 module.exports = {
-  menu: process.env.MENU || "2",
+  menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`POWERED BY 𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓™`",
-  author: process.env.PACK_AUTHER || "𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-V2",
-  packname: process.env.PACK_NAME || "collins",
-  botname: process.env.BOT_NAME || "𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-V2",
-  ownername: process.env.OWNER_NAME || "𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓",
+  caption: process.env.CAPTION || "`COLLINS_V2™`",
+  author: process.env.PACK_AUTHER || "COLLINS_V2",
+  packname: process.env.PACK_NAME || "",
+  botname: process.env.BOT_NAME || "COLLINS_V2",
+  ownername: process.env.OWNER_NAME || "COLLINS",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: (process.env.THEME || "COLLINS").toUpperCase(),
+  LANG: (process.env.THEME || "DRAGON").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
