@@ -2,7 +2,7 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•𓀬🅒︎🅞︎🅛︎🅛︎🅘︎🅝︎🅢︎𓅓-𝐌𝐃•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐂𝐎𝐋𝐋𝐈𝐍𝐒+𝐒𝐌𝐈𝐓𝐇;RELEASED+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•𓀬🅒︎🅞︎🅛︎🅛︎🅘︎🅝︎🅢︎𓅓-𝐕2•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐂𝐎𝐋𝐋𝐈𝐍𝐒+𝐒𝐌𝐈𝐓𝐇;RELEASED+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/a859713071d35ccfa1503.jpg"/> 
@@ -102,9 +102,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝐂𝐨𝐥𝐥𝐢𝐧𝐬-𝐕2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
+- *Use 𝐜𝐨𝐥𝐥𝐢𝐧𝐬-𝐕2 at your own risk by keeping this warning in mind.*
   
   #### ```𝑪𝑶𝑳𝑳𝑰𝑵𝑺 𝑺𝑴𝑰𝑻𝑯 PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
